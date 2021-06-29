@@ -1,0 +1,25 @@
+{
+  "name": "gift-generator-project",
+  "version": "1.0.0",
+  "description": "small personal project",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.8"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lukendziur/gift-generator.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lukendziur/gift-generator/issues"
+  },
+  "homepage": "https://github.com/Lukendziur/gift-generator#readme"
+}
