@@ -1,5 +1,5 @@
 window.addEventListener('load', () => {
-    async function giftFunction() {
+    async function giphyFunction() {
         const data = await fetch(`https://api.giphy.com/v1/gifs/trending?api_key=F7NNx7J2Q6taRLVi9TmWBpEPJqMDSjJV`)
         const json = await data.json();
 
@@ -35,7 +35,7 @@ window.addEventListener('load', () => {
 
 
     }
-    giftFunction();
+    giphyFunction();
 
 
 
