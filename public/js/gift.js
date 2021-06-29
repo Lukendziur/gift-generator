@@ -25,6 +25,8 @@ window.addEventListener('load', () => {
                 let imgToInsert = document.querySelector('figcaption')
                 h3ToInsert.innerHTML = ` ${random.title}`
                 imgToInsert.innerHTML = `<img src=${random.images.original.url}>`
+                
+
 
 
             }
